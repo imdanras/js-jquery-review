@@ -26,3 +26,5 @@ var fib = function(num) {
 }
 
 fib(7);
+
+// returns 13
